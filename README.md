@@ -1,9 +1,9 @@
 # **#Latihan1**
 
-## Apa Itu Git ?
+## Apa Itu GIT ?
 ![1280px-git-logo svg](https://user-images.githubusercontent.com/46738960/51690083-90b4e400-202a-11e9-8c54-d9586558eb8b.png)
 
-**Git** adalah pengontrol versi yang bertugas mencatat setiap perubahan pada file proyek yang dikerjakan oleh banyak orang maupun sendiri. **Git** dikenal juga dengan _**distributed revision control**_ (VCS terdistribusi), artinya penyimpanan database Git tidak hanya berada dalam satu tempat saja.
+**GIT** adalah pengontrol versi yang bertugas mencatat setiap perubahan pada file proyek yang dikerjakan oleh banyak orang maupun sendiri. **GIT** dikenal juga dengan _**distributed revision control**_ (VCS terdistribusi), artinya penyimpanan database GIT tidak hanya berada dalam satu tempat saja.
 
 ## **Install GIT di Windows**
 
@@ -23,7 +23,7 @@ Menginstall GIT di Windows sangat mudah, cukup dengan mendownload dan menjalanka
 
 ## **Langkah-Langkah Menggunakan GIT**
 
-### 1. Jalankan software Git pada Desktop dengan cara klik kanan > Git Bash Here.
+### 1. Jalankan software GIT pada Desktop dengan cara klik kanan > Git Bash Here.
 ![1](https://user-images.githubusercontent.com/46738960/51692334-484bf500-202f-11e9-8206-436a1cc794f8.jpg)
 ![2](https://user-images.githubusercontent.com/46738960/51692333-47b35e80-202f-11e9-8977-75448d969160.jpg)
 
@@ -35,7 +35,6 @@ Menginstall GIT di Windows sangat mudah, cukup dengan mendownload dan menjalanka
 
 ### 4. Kita buat Repository Localnya menjadi _master_ dengan melakukan inisialisai "git init".
 ![git init](https://user-images.githubusercontent.com/46738960/51693128-e9877b00-2030-11e9-938e-283fc453f13e.jpg)
-
 
 ### 5. Buat file project pada folder kita dengan mengetik "echo" dan cek apakah sudah ada filenya di dalam folder kita dengan mengetik "ls -l".
 ![echo](https://user-images.githubusercontent.com/46738960/51693576-d0cb9500-2031-11e9-9da1-8aaf2596aa8e.jpg)
@@ -59,3 +58,11 @@ Menginstall GIT di Windows sangat mudah, cukup dengan mendownload dan menjalanka
 
 ### 11. Finally yaitu kita mengirim file project kita ke Repository Server di Github dengan mengetik "git push -u origin master" & jangan lupa untuk melakukan ini kita membutuhkan jaringan internet, pada proses ini kita juga akan diminta untuk memasukkan username dan password.
 ![git push](https://user-images.githubusercontent.com/46738960/51695925-cd86d800-2036-11e9-8e04-d0d9f48176ef.jpg)
+
+### 12. Dan inilah hasilnya.
+![finish](https://user-images.githubusercontent.com/46738960/51696253-a11f8b80-2037-11e9-8ea6-b63bc6793091.jpg)
+
+# Sekian dan Terima Kasih
+## Danu Braditya Repha
+## 311810241
+## TI.18.B.1
