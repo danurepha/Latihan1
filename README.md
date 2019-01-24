@@ -9,7 +9,7 @@
 
 Menginstall GIT di Windows sangat mudah, cukup dengan mendownload dan menjalankan instalasinya. Ikuti langkah berikut ini untuk meng-install GIT di Windows:
 
-1. Buka [https://gitforwindows.org/](url) dan download installer GIT untuk Windows.
+1. Buka https://gitforwindows.org/ dan download installer GIT untuk Windows.
 2. Setelah download, buka file tersebut untuk menjalankan proses instalasi. Ikuti semua instruksi, klik Next dan Finish hingga semua proses instalasi selesai.
 
 ## **Beberapa Perintah Dasar Pada GIT**
@@ -42,7 +42,7 @@ Menginstall GIT di Windows sangat mudah, cukup dengan mendownload dan menjalanka
 ### 6. Siapkan file project kita yang akan di upload pada Repository Server dengan mengetik "git add".
 ![git add](https://user-images.githubusercontent.com/46738960/51694406-53088900-2033-11e9-91c6-72805f099a0e.jpg)
 
-### 7. Buatlah Repository Servernya pada [https://github.com](url) yang sudah di sign in oleh kita.
+### 7. Buatlah Repository Servernya pada https://github.com yang sudah di sign in oleh kita.
 ![guthub](https://user-images.githubusercontent.com/46738960/51694564-b2669900-2033-11e9-89d4-86933f2e0f96.jpg)
 
 ### 8. Update file project yang akan di upload ke Repository Online dengan mengetik "git commit".
